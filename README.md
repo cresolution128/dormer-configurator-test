@@ -15,5 +15,4 @@ Features
 - Load and display roof and dormer 3D models
 - Adjust roof height with slider (0.5 to 2.0)
 - Dormer height automatically matches roof height
-- Dormer z-position automatically set to roofWidth / 2
 - Orbit controls for camera (mouse drag to rotate, scroll to zoom, right-click to pan)
